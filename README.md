@@ -6,10 +6,10 @@ This C# console application demonstrates secure data storage and access control 
 
 ## Features
 
-- Role-based access control (Admin vs. User)
-- AES symmetric encryption for sensitive data
-- Exception handling for unauthorized access
-- Simple, clear code structure for educational purposes
+✅ Role-based access control (Admin vs. User)
+✅ AES symmetric encryption for sensitive data
+✅ Exception handling for unauthorized access
+✅ Simple, clear code structure for educational purposes
 
 ## Getting Started
 
