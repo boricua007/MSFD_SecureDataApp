@@ -2,7 +2,7 @@
 
 ## Overview
 
-This C# console application demonstrates secure data storage and access control using role-based authorization and AES encryption. The project is designed as a lab exercise to show how sensitive information can be protected.
+.NET 9.0 Console Application built for the Microsoft Back-End Development course as part of the Full-Stack Certification track. This C# console application demonstrates secure data storage and access control using role-based authorization and AES encryption. The project is designed as a lab exercise to show how sensitive information can be protected.
 
 ## Features
 
